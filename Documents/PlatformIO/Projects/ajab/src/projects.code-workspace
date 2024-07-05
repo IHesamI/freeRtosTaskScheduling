@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "E:/term8/Embeded/project"
+	},
+	{
+		"name": "firstPro",
+		"path": "../../firstPro"
+	},
+	{
+		"name": "zarp",
+		"path": "../../zarp"
+	},
+	{
+		"name": "ajab",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
